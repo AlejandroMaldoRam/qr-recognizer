@@ -1,7 +1,7 @@
 """Functions for detecting a defined marker"""
 
 import numpy as np
-from scipy.spatial import distance
+#from scipy.spatial import distance
 import cv2
 
 
